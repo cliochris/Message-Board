@@ -1,28 +1,27 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a fork of Ryan Hemrick's Message Board sample application,
+demonstrated at https://www.youtube.com/watch?v=wODY11lM7wk and
+forked from https://github.com/RyanHemrick/Message-Board
 
-Things you may want to cover:
+I took the opportunity to add user first name and last name based
+on:
+http://jacopretorius.net/2014/03/adding-custom-fields-to-your-devise-user-model-in-rails-4.html
 
-* Ruby version
+The goal of this project is to use it during an interview of a senior
+developer. We present the project and ask the senior developer to
+find security vulnerabilities in the project.
 
-* System dependencies
+To the senior developer candidate:
+We will demo this very simple application to you. We would like you to
+take a look and see if you can find any security vulnerabilities in the
+code. Depending on how you count the vulnerabilities, there are at least
+three. You won't have time to find all three, though. Instead, we would
+rather you take your time, telling us what you are looking for and
+explaining any vulnerabilities that you find. You are welcome to ask us
+any questions you wish, and we will prompt you occasionally as you go.
+You have up to 25 minutes, after which we’ll wrap up with some questions.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+To the interviewer:
+More information available at:
+https://docs.google.com/a/clio.com/document/d/1PsbiOlKGq-pmmyEknSlcHPAR-PqL8mWyLqNav8eLKzY/edit?usp=sharing
