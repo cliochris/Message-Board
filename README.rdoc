@@ -13,6 +13,9 @@ developer. We present the project and ask the senior developer to
 find security vulnerabilities in the project.
 
 To the senior developer candidate:
+The app is available online at https://aqueous-dawn-86978.herokuapp.com/
+There's a user created with the email address, demo@clio.com.
+
 We will demo this very simple application to you. We would like you to
 take a look and see if you can find any security vulnerabilities in the
 code. Depending on how you count the vulnerabilities, there are at least
