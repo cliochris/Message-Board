@@ -23,7 +23,14 @@ three. You won't have time to find all three, though. Instead, we would
 rather you take your time, telling us what you are looking for and
 explaining any vulnerabilities that you find. You are welcome to ask us
 any questions you wish, and we will prompt you occasionally as you go.
-You have up to 25 minutes, after which we’ll wrap up with some questions.
+You have up to 25 minutes, after which we’ll wrap up with some discussion.
+
+You may wish to focus on the following:
+app/models/*
+app/controllers/*
+app/helpers/application_helper.rb (the other two are blank)
+app/views/messages/* and app/views/comments/*
+and of course, the Gemfile which lists the gems used by the application.
 
 To the interviewer:
 More information available at:
