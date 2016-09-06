@@ -13,7 +13,7 @@ developer. We present the project and ask the senior developer to
 find security vulnerabilities in the project.
 
 To the senior developer candidate:
-The app is available online at https://aqueous-dawn-86978.herokuapp.com/
+The app is available online at https://clio-message-board.herokuapp.com/
 There's a user created with the email address, demo@clio.com.
 
 We will demo this very simple application to you. We would like you to
@@ -26,11 +26,11 @@ any questions you wish, and we will prompt you occasionally as you go.
 You have up to 25 minutes, after which we’ll wrap up with some discussion.
 
 You may wish to focus on the following:
-app/models/*
-app/controllers/*
-app/helpers/application_helper.rb (the other two are blank)
-app/views/messages/* and app/views/comments/*
-and of course, the Gemfile which lists the gems used by the application.
+* app/models/*
+* app/controllers/*
+* app/helpers/*
+* app/views/messages/* and app/views/comments/*
+* and of course, the Gemfile which lists the gems used by the application.
 
 To the interviewer:
 More information available at:
