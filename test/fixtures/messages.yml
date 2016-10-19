@@ -1,9 +1,17 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  title: MyString
-  description: MyText
+message_alice:
+  id: 1
+  title: Message from Alice
+  description: Filled with good data
+  created_at: 2016-08-30 19:56:52.314538000 Z
+  updated_at: 2016-08-30 19:56:52.314538000 Z
+  user_id: 1
 
-two:
-  title: MyString
-  description: MyText
+message_mallory:
+  id: 2
+  title: Message from Mallory
+  description: Filled with malice and spite.
+  created_at: 2016-08-30 19:57:10.885560000 Z
+  updated_at: 2016-08-30 19:57:10.885560000 Z
+  user_id: 2
